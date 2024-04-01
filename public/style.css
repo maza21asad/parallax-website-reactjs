@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background: var(--body_background);
+    color: var(--body_color);
+    /* overflow: hidden scroll; */
+    /* overflow-y: scroll; */
+}
+
+* button {
+    border: 0.2rem;
+}
