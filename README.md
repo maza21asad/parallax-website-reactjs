@@ -1,6 +1,6 @@
 # ReactJS Parallax Website
 
-Check the website: `https://parallax-website-reactjs.vercel.app/`
+Website: `https://parallax-website-reactjs.vercel.app/`
 
 This repository contains a visually engaging and interactive parallax website built using ReactJS. The website utilizes the parallax scrolling effect to create a dynamic user experience, where background images move at different speeds as the user scrolls. The ReactJS framework provides a robust and efficient foundation for managing the website's components, state, and routing.
 
