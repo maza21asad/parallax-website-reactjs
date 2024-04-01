@@ -22,8 +22,8 @@ This repository contains a visually engaging and interactive parallax website bu
 
    ```bash
    npm install @react-spring/parallax react-scroll react-router-dom
-
-   @react-spring/parallax: For implementing the parallax scrolling effect.
-   react-scroll: For smooth scrolling functionality.
-   react-router-dom: For routing within the React application.
    ```
+   
+   - @react-spring/parallax: For implementing the parallax scrolling effect.
+   - react-scroll: For smooth scrolling functionality.
+   - react-router-dom: For routing within the React application.
